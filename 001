@@ -1,0 +1,145 @@
+
+
+
+# Hello everyone, I'm physicist student at Istanbul University
+# This tutorial belong our lectures and study  notes
+# I hope, anyone who wants to learn programming with python can benefit from this tutorial
+
+# Firstly, maybe you dont know what can you do in python,
+# Don't woory you learning to step by step what can you in python like a definition and sloving to problem with using
+# programming
+# you developing your algorithmic and analytical thinking skills by working on programming, doesnt matter which one is
+# it,
+# This idea if of course for those who are new starting and don't knw what to do.
+
+
+"""
+programming basically working on variables and values.
+so getting started with problem solving, you need to break its problem down into step by step and assign job descriptions
+and variables.
+so we start to variables and values.
+The variables definiton on math ("https://mathinsight.org/definition/variable") like that python variables logical,
+because Python is designed around readability, English language and mathematics were used in its design.
+its meaning to whatever you think you can write it on python compiler, python designed near to humanity focused thinking.
+
+
+so the basically
+x=5
+the variable of "x" and the values of "5"
+we will operate on this basic variable logic
+
+
+# variable: unit that keeping a value from the data type
+x_values=55
+y_values=88
+print(x_values+y_values)
+
+
+ASSIGMENT OF VARİABLE
+variable_name=values
+
+
+NOTE THAT!!
+a=50
+b=35
+a,b=b,a
+print(a,b)
+terminal output>>
+35 50
+!!Due to the dynamic nature of python, we can change values between variables very easily.
+
+
+a=5
+a=100
+print(a)
+terminal output>>
+100
+!! Due to the dynamic nature of python, assigning a new value to the same variable
+Python configures itself according to the new value
+
+
+NOTE THAT: PROGRAMMİNG LANGUAGE HAS A UNIQUE SYNTAX RULES
+• The syntax in Python is international, so everyone follows the same standards
+• Python is case-sensitive, which means, for example, Name and name have different meanings
+• The standard is to use English names in programming
+• All variables should start with a lowercase letter, for example,  var = 4
+• Functions begin with lowercase
+• Classes begins with a capital letter
+[https://code-knowledge.com/python-syntax-and-rules/]
+
+
+YOU DON'T WRITE:
+5value=88
+value of values =55
+?value=55
+*=55
+yo can't begining the value names or anywhere to the special characters
+"""
+# x y=55
+# x%yuz=55
+# print(x&yuz)
+# >>SyntaxError: invalid character
+""""
+
+# NOTE THAT
+# 3+4=a
+# print(a)
+# wrong assigment because the variable must be left side its a logical side from the math equation
+
+SQUARE AREA
+in math
+area=(length)²
+in python
+length=5
+area=length**2
+print(area)
+"""
+
+# length=int(input(" give a number "))
+# area=length*length
+# print(area)
+
+# TRIANGLE AREA
+# first_length=int(input("first length="))
+# height=int(input("height="))
+# area=(first_length * height)/2
+# print("area=", area)
+
+# CIRCLE AREA
+# radius=int(input("radius="))
+# pi=3.14
+# area=pi*radius**2
+# print("area=",area)
+
+"""
+NOTE THAT: CHANGE A VARIABLE VALUE WITH ITSELF
+a=5
+a=a+5
+print(a)
+>>> 10
+
+a+=5 Adding/Subtraction/Multiplication/Division  to the value of a
+a-=2
+a*=6
+a/=8
+
+"""
+
+
+# NOTE THAT: you already noticed my used commant line for explain my writing to you
+# if you don't the comment line, program returning error.
+
+"""
+multiple comment lines
+"""
+
+# single  comment line
+
+"""
+This was the first note of our tutoril.
+I am open to talk about different and effective writing techniques in my work.
+this consists of my study notes rather than a subjective study, I will share my sources with you.
+please contact me
+kosmene.kubra@gmail.com
+LınkedIn: Kübra Kösmene 
+"""
